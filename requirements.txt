@@ -1,0 +1,20 @@
+# scraping
+requests
+beautifulsoup4
+lxml
+pandas
+tqdm
+python-dateutil
+
+# nlp
+nltk
+scikit-learn
+textblob
+wordcloud
+
+# dashboard
+streamlit
+
+# plots
+matplotlib
+numpy
