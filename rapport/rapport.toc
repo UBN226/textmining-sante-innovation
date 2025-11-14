@@ -1,0 +1,19 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {0.1}Résumé exécutif}{3}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Introduction}{3}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Corpus et Description des Données}{3}{section.0.3}%
+\contentsline {subsection}{\numberline {0.3.1}Corpus OMS Afrique}{3}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {0.3.2}Corpus Forbes Afrique}{3}{subsection.0.3.2}%
+\contentsline {section}{\numberline {0.4}Méthodologie}{4}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}Nettoyage et Prétraitement}{4}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {0.4.2}Modélisation du Texte}{4}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {0.4.3}Extraction des Thèmes OMS (LDA)}{4}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {0.4.4}Analyse du Sentiment et Framing}{4}{subsection.0.4.4}%
+\contentsline {subsection}{\numberline {0.4.5}Extraction d’Entités (NER – spaCy)}{4}{subsection.0.4.5}%
+\contentsline {section}{\numberline {0.5}Résultats}{4}{section.0.5}%
+\contentsline {subsection}{\numberline {0.5.1}Thèmes OMS Identifiés}{4}{subsection.0.5.1}%
+\contentsline {subsection}{\numberline {0.5.2}Couverture Forbes des Thèmes OMS}{5}{subsection.0.5.2}%
+\contentsline {subsection}{\numberline {0.5.3}Analyse UMAP – Proximité Sémantique}{5}{subsection.0.5.3}%
+\contentsline {subsection}{\numberline {0.5.4}Analyse du Sentiment}{5}{subsection.0.5.4}%
+\contentsline {subsection}{\numberline {0.5.5}Analyse des Entités et Wordclouds}{5}{subsection.0.5.5}%
+\contentsline {section}{\numberline {0.6}Conclusion}{5}{section.0.6}%

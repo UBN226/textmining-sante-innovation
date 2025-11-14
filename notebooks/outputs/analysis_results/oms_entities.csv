@@ -1,0 +1,2377 @@
+global_index,entity,label
+0,Soins,LOC
+0,Ebola,LOC
+0,République démocratique du Congo,LOC
+0,Bulape,ORG
+0,République démocratique du Congo,LOC
+0,Ebola,LOC
+0,Bulape,LOC
+0,Kasaï,LOC
+0,Ebola,LOC
+0,Ebola,LOC
+0,Jean,PER
+0,Alidor Mashala Katshiabala,PER
+0,Jean Mikobi Tshilomba,PER
+0,Katshiabala,LOC
+0,Ebola,LOC
+0,Ebola,LOC
+0,Jean Mikobi Tshilomba,PER
+0,Ebola,LOC
+0,Tshilomba,PER
+0,Tshilomba,PER
+0,Ebola,LOC
+0,Dr Mory Keita,MISC
+0,Ebola,LOC
+0,Organisation mondiale de la Santé,ORG
+0,OMS,ORG
+0,Bulape,LOC
+0,Ebola,PER
+0,ministère de la Santé,LOC
+0,OMS,ORG
+0,Cliquez,LOC
+0,Chinyere Nwonye Emergencies,MISC
+0,Office +2348034645524,ORG
+0,Office,MISC
+0,Email,LOC
+1,Afrique,LOC
+1,Papa Ahmed Fall,MISC
+1,Dalal Jamm,LOC
+1,Dakar,LOC
+1,Afrique,LOC
+1,Afrique,LOC
+1,Afrique,LOC
+1,Afrique du Nord,LOC
+1,Maroc,LOC
+1,Tunisie,LOC
+1,Afrique du Sud,LOC
+1,Sénégal,LOC
+1,Quels,LOC
+1,PSA,ORG
+1,PSA,ORG
+1,Afrique,LOC
+1,Cliquez,LOC
+1,TABI Marriane Enow Technical Officer,LOC
+1,Communications,ORG
+2,Burundi,LOC
+2,Bujumbura,MISC
+2,Burundi,LOC
+2,Bujumbura,LOC
+2,Kamenge,LOC
+2,Kinama,LOC
+2,Burundi,LOC
+2,Organisation mondiale de la Santé,ORG
+2,OMS,ORG
+2,OMS,ORG
+2,Burundi,LOC
+2,OMS,ORG
+2,Muyinga,LOC
+2,district Kamenge,LOC
+2,Kamenge,LOC
+2,OMS,ORG
+2,Rachel,PER
+2,Kamenge,LOC
+2,Ntahangwa,LOC
+2,Bujumbura,LOC
+2,Françoise Kiziba,PER
+2,Kamenge,LOC
+2,Dr Armel Bitaneza,MISC
+2,Médecin Chef,PER
+2,District de Bujumbura Mairie Nord,LOC
+2,OMS,ORG
+2,OMS,ORG
+2,Organisation,ORG
+2,OMS,ORG
+2,Dr Issa Diallo,MISC
+2,Chef d'équipe pour la préparation et la réponse aux urgences sanitaires,MISC
+2,OMS,ORG
+2,Burundi,LOC
+2,Rachel,PER
+2,Cliquez,LOC
+2,Kadijah Diallo Chargée,PER
+2,Bureau Régional,ORG
+2,OMS,ORG
+2,Nadège Sinarinzi,PER
+2,OMS Burundi Email,MISC
+3,Congo,LOC
+3,Brazzaville,LOC
+3,Congo,LOC
+3,ministère de la Santé,LOC
+3,Population des différents piliers de la réponse,ORG
+3,Organisation mondiale de la Santé,ORG
+3,OMS,ORG
+3,CTC,ORG
+3,Dr Juicael Bokoba,MISC
+3,Centre,LOC
+3,CSI,ORG
+3,Loukoléla,PER
+3,Congo,LOC
+3,OMS,ORG
+3,CFE,ORG
+3,CTC,ORG
+3,CSI,ORG
+3,Loukoléla,ORG
+3,CTC,ORG
+3,OMS,ORG
+3,Organisation,ORG
+3,Ghislain Dzeret Indolo,PER
+3,Congo,LOC
+3,OMS,ORG
+3,David Akini Maya,PER
+3,Mossaka,MISC
+3,OMS,ORG
+3,Mamadou Zongo,PER
+3,OMS,ORG
+3,l'Afrique,LOC
+3,Françoise Komboli,PER
+3,Mossaka,LOC
+3,Françoise,PER
+3,Congo,LOC
+3,Dr Vincent Dossou Sodjinou,MISC
+3,OMS,ORG
+3,Congo,LOC
+3,Cliquez,LOC
+3,Kayi Lawson Chargée,PER
+3,Bureau régional,ORG
+3,Mohamed Diawara Chargé,PER
+3,OMS,ORG
+3,Email,LOC
+3,Tél,LOC
+4,RDC,LOC
+4,Ebola,LOC
+4,Bulape,PER
+4,Bulape,ORG
+4,Jacob Mukaba,PER
+4,Ebola,LOC
+4,Kété,ORG
+4,Jacob,PER
+4,Dr John Otshudiema,MISC
+4,Organisation mondiale de la Santé,ORG
+4,OMS,ORG
+4,Bulape,ORG
+4,Ebola,LOC
+4,Bulape,LOC
+4,Dr Otshudiema,ORG
+4,Dr Richard Kitenge,MISC
+4,Ebola,LOC
+4,ministère de la Santé,LOC
+4,OMS,ORG
+4,OMS,ORG
+4,OMS,ORG
+4,CTE des cas suspects,LOC
+4,OMS,ORG
+4,Dr Jean Djemba,MISC
+4,ministère de la Santé,LOC
+4,Dr Mory Keita,MISC
+4,OMS Afrique,ORG
+4,Bulape,PER
+4,Dr Keita,MISC
+4,Ebola,PER
+4,Bulape,LOC
+4,Jacob,PER
+4,virus Ebola,LOC
+4,Cliquez,LOC
+4,René Koundou IFONO,PER
+4,OMS,ORG
+4,République Centrafricaine,LOC
+4,Eugene Kabambi,PER
+4,Office,MISC
+4,Email,LOC
+5,Cameroun,LOC
+5,Yaoundé,LOC
+5,Eugène,PER
+5,Eugène,PER
+5,Cameroun,LOC
+5,Organisation mondiale de la Santé,ORG
+5,OMS,ORG
+5,ministère de la Santé,LOC
+5,Dr Joseph Fokam,MISC
+5,Secrétaire Permanent,PER
+5,Comité National de Lutte,ORG
+5,Eugène,PER
+5,OMS,ORG
+5,Soins,LOC
+5,Ressources et d'Animation,ORG
+5,USRA,ORG
+5,Edwige Eyenga,PER
+5,Centre,LOC
+5,Essos,LOC
+5,Mme Eyenga,PER
+5,Cameroun,LOC
+5,OMS,ORG
+5,Dr Ngalame Alphonse Nyong,MISC
+5,"Chargé du Programme de la santé sexuelle, reproductive",MISC
+5,OMS,ORG
+5,Cameroun,LOC
+5,ONUSIDA,ORG
+5,Eugène,PER
+5,Cliquez,LOC
+5,Kadijah Diallo Chargée,PER
+5,Bureau Régional,ORG
+5,OMS,ORG
+5,OMS Cameroun E-mail,ORG
+6,RDC,LOC
+6,Bulape,ORG
+6,Ebola,LOC
+6,Bulape,LOC
+6,Kasaï,LOC
+6,Henriette Byongo,PER
+6,Organisation mondiale de la Santé,ORG
+6,OMS,ORG
+6,Ebola,LOC
+6,Dr Serge Bulangyene Loso,MISC
+6,Bulape,PER
+6,Centre,LOC
+6,Ebola,LOC
+6,CTE,LOC
+6,Dr Loso,MISC
+6,OMS,ORG
+6,Mamadou Zongo,PER
+6,OMS,ORG
+6,OMS,ORG
+6,Dr Richard Kitenge,MISC
+6,Ebola,LOC
+6,ministère de la Santé,LOC
+6,Bulape,ORG
+6,Dr Mory Keita,MISC
+6,Ebola,LOC
+6,OMS Afrique,ORG
+6,Ebola,LOC
+6,Mamadou Zongo,PER
+6,OMS,ORG
+6,Bulape,ORG
+6,Henriette Byongo,PER
+6,Cliquez,LOC
+6,Kadijah Diallo Chargée,PER
+6,Bureau Régional,ORG
+6,OMS,ORG
+6,René Koundou IFONO,PER
+6,OMS,ORG
+6,République Centrafricaine,LOC
+7,Ebola,LOC
+7,Congo,LOC
+7,Brazzaville,LOC
+7,Ebola,LOC
+7,Kasaï,LOC
+7,République Démocratique du Congo,LOC
+7,RDC,LOC
+7,République du Congo,LOC
+7,Congo,LOC
+7,Congo,LOC
+7,Organisation mondiale de la Santé,ORG
+7,OMS,ORG
+7,ministère de la Santé,LOC
+7,Population,ORG
+7,Plan national de préparation et de riposte,ORG
+7,Ebola,LOC
+7,Dr Jean Claude Emeka,MISC
+7,Directeur de l'hygiène,MISC
+7,ministère de la Santé,LOC
+7,RDC,LOC
+7,Ebola,LOC
+7,Aéroport International Maya-Maya,LOC
+7,port Yoro,MISC
+7,Brazzaville,LOC
+7,Christian Voumina,PER
+7,Chef d'exploitation,MISC
+7,aéroport Maya,LOC
+7,Ebola,LOC
+7,Emma Gisèle Monka,PER
+7,Responsable de santé,MISC
+7,RDC,LOC
+7,OMS,ORG
+7,Brazzaville,LOC
+7,Centre Hospitalier Universitaire,LOC
+7,Hôpital militaire,LOC
+7,Dr Vincent Dossou Sodjinou,MISC
+7,Représentant de l'OMS,MISC
+7,Congo,LOC
+7,OMS,ORG
+7,Ebola,LOC
+7,Organisation,ORG
+7,Ebola,LOC
+7,Dr Jean Claude Emeka,MISC
+7,Kasaï,ORG
+7,Brazzaville,LOC
+7,RDC,LOC
+7,Cliquez,LOC
+7,Kadijah Diallo Chargée,PER
+7,Bureau Régional,ORG
+7,OMS,ORG
+7,Mohamed Diawara Chargé,PER
+7,OMS,ORG
+7,Email,LOC
+7,Tél,LOC
+8,Ouganda,LOC
+8,Ebola,LOC
+8,Kampala,MISC
+8,Nangobi,LOC
+8,Ebola,LOC
+8,Ouganda,LOC
+8,Ça,MISC
+8,Ebola,LOC
+8,Aisha,MISC
+8,Ebola,ORG
+8,Aisha,ORG
+8,Ebola,LOC
+8,Aisha,ORG
+8,Ministère de la santé,ORG
+8,Dr Chris Opesen,MISC
+8,OMS,ORG
+8,Ouganda,LOC
+8,Aisha,LOC
+8,Ebola,LOC
+8,Aisha,LOC
+8,Aisha,ORG
+8,Ebola,PER
+8,Ministère de la santé,ORG
+8,Maladie de l'Ouganda,MISC
+8,États-Unis,LOC
+8,Ebola,PER
+8,Ayub Maswaswa,PER
+8,Ayub,LOC
+8,OMS,ORG
+8,Ministère de la santé,ORG
+8,Ouganda,LOC
+8,Ebola,LOC
+8,Ayub,LOC
+8,Ebola,LOC
+8,Ouganda,LOC
+8,Ebola,LOC
+8,Dr Ezra Mupakasa,MISC
+8,Ebola,LOC
+8,hôpital Saidina Abubakar,LOC
+8,Kampala,LOC
+8,OMS,ORG
+8,Gouvernement de l'Ouganda,LOC
+8,Ebola,LOC
+8,Organisation,ORG
+8,OMS,ORG
+8,Ebola,LOC
+8,Dre Kasonde Mwinga,PER
+8,Représentante,PER
+8,OMS,ORG
+8,Ouganda,LOC
+8,OMS,ORG
+8,Ouganda,LOC
+8,Ebola,LOC
+8,Aisha à se reconstruire,MISC
+8,Cliquez,LOC
+8,Anthony Bugembe,PER
+8,Phone,PER
+8,Collins Boakye-Agyemang,PER
+8,Tel,MISC
+8,WhatsApp,ORG
+8,Email,MISC
+9,Goma,LOC
+9,Journée mondiale de la santé mentale,MISC
+9,Virunga,LOC
+9,République démocratique du Congo,LOC
+9,Annie Kahambu Kikoli,PER
+9,Quels,LOC
+9,Quels,LOC
+9,Soigner,PER
+9,Pourriez,PER
+9,Journée mondiale de la santé mentale,MISC
+9,Cliquez,LOC
+9,Kadijah Diallo Chargée,PER
+9,Bureau Régional,ORG
+9,OMS,ORG
+9,Tél : +243 899 330 358 Email,MISC
+10,Ouganda,LOC
+10,Ebola 09,MISC
+10,Kampala,MISC
+10,Ministère de la santé de l'Ouganda,ORG
+10,Organisation mondiale de la Santé,ORG
+10,OMS,ORG
+10,Ebola,LOC
+10,République démocratique du Congo,LOC
+10,Ebola,LOC
+10,Kasaï,LOC
+10,OMS,ORG
+10,ministère de la Santé,LOC
+10,RDC,LOC
+10,Ouganda,LOC
+10,OMS,ORG
+10,RDC,LOC
+10,Ouganda,LOC
+10,Ebola,LOC
+10,Ebola,LOC
+10,Soudan,LOC
+10,Ouganda,LOC
+10,aéroport international d'Entebbe,LOC
+10,Organisation internationale pour les migrations,ORG
+10,Ouganda,LOC
+10,Dr Charles Olaro,MISC
+10,Directeur général des services,MISC
+10,Ministère de la santé de l'Ouganda,ORG
+10,Ouganda,LOC
+10,Afrique de l'Est,LOC
+10,Module de traitement des maladies infectieuses,MISC
+10,Module,MISC
+10,INITIATE2,ORG
+10,OMS,ORG
+10,Programme alimentaire mondial,ORG
+10,Union européenne,ORG
+10,OMS,ORG
+10,ministère de la Santé de l'Ouganda,LOC
+10,Ebola,LOC
+10,Ebola,LOC
+10,Ouganda,LOC
+10,Ebola,LOC
+10,Ebola,LOC
+10,Ouganda,LOC
+10,Dre Kasonde Mwinga,PER
+10,Représentante,PER
+10,OMS,ORG
+10,Ouganda,LOC
+10,OMS,ORG
+10,OMS,ORG
+10,RDC,LOC
+10,Organisation,ORG
+10,Cliquez,LOC
+10,Anthony Bugembe,PER
+10,Phone,PER
+10,Collins Boakye-Agyemang,PER
+10,Tel,MISC
+10,WhatsApp,ORG
+10,Email,MISC
+11,Burkina Faso,LOC
+11,Ouagadougou,MISC
+11,Alimata,MISC
+11,Dori,PER
+11,Burkina Faso,LOC
+11,ONUSIDA,ORG
+11,Alimata,PER
+11,ONUSIDA,ORG
+11,Organisation mondiale de la Santé,ORG
+11,OMS,ORG
+11,Test and,ORG
+11,OMS,ORG
+11,Approches,LOC
+11,ADS,ORG
+11,IAP,ORG
+11,OMS,ORG
+11,Organisation,ORG
+11,ARV,ORG
+11,Burkina Faso,LOC
+11,Dr Natyon Dieudonné Soma,MISC
+11,Coordonnateur du Programme sectoriel santé de lutte contre le sida,MISC
+11,ARV,ORG
+11,Pr Ismaël Diallo,PER
+11,Yalgado Ouédraogo,PER
+11,Marou,PER
+11,OMS,ORG
+11,Burkina Faso,LOC
+11,Cadre Stratégique National 2023–2026,MISC
+11,OMS,ORG
+11,Burkina Faso,LOC
+11,Dr Casimir Manzengo,MISC
+11,Programme de lutte contre le VIH au bureau de l',ORG
+11,OMS,ORG
+11,Burkina Faso,LOC
+11,Sida,PER
+11,Burkina Faso,LOC
+11,Chef de l'État,ORG
+11,Conseil National de Lutte,ORG
+11,Sida,ORG
+11,Cadre Stratégique National,MISC
+11,Burkina Faso,LOC
+11,Alimata,MISC
+11,Cliquez,LOC
+11,Kadijah Diallo Chargée,PER
+11,Bureau Régional,ORG
+11,OMS,ORG
+11,Oumarou Tarpaga Chargé,PER
+11,OMS Burkina Faso +22670760485,MISC
+12,Ebola,LOC
+12,Marie Jeanne,PER
+12,RDC,LOC
+12,Bulape,LOC
+12,Kasaï,LOC
+12,RDC,LOC
+12,Ebola,LOC
+12,OMS,ORG
+12,Medécins sans frontières,ORG
+12,Belgique,LOC
+12,Programme alimentaire mondial,ORG
+12,PAM,ORG
+12,UNICEF,ORG
+12,ALIMA,ORG
+12,Marie Jeanne Kadima,PER
+12,virus Ebola,LOC
+12,Bulape,LOC
+12,Kasaï,LOC
+12,Bulape,ORG
+12,Marie Jeanne,PER
+12,Bulape,ORG
+12,Ebola,LOC
+12,OMS,ORG
+12,Bulape,ORG
+12,GeneXpert,MISC
+12,Biofire,PER
+12,Institut national de recherche biomédicale,ORG
+12,INRB,ORG
+12,Kinshasa,LOC
+12,virus Ebola,LOC
+12,Zaïre,ORG
+12,OMS,ORG
+12,Marie Jeanne,PER
+12,OMS,ORG
+12,Bulape,PER
+12,Gavi,LOC
+12,UNICEF,ORG
+12,Médecins sans frontières,ORG
+12,Belgique,LOC
+12,Programme alimentaire mondial,ORG
+12,PAM,ORG
+12,ALIMA,ORG
+12,OMS,ORG
+12,EPI,ORG
+12,Marie Jeanne,PER
+12,Ebola,LOC
+12,Dr Serge Bula,MISC
+12,Bulape,ORG
+12,Au bout de 15 jours,MISC
+12,Marie Jeanne,PER
+12,Ebola,LOC
+12,Ebola,LOC
+12,Dr Mory Keita,MISC
+12,Gestionnaire de l'incident de l',MISC
+12,OMS,ORG
+12,Ebola,LOC
+12,Ebola,PER
+12,OMS,ORG
+12,Bulape,LOC
+12,PCI,MISC
+12,OMS,ORG
+12,Bulape,ORG
+12,Mweka,PER
+12,Cliquez,LOC
+12,Marlène Dimegni Bermi Chargée,PER
+12,Tél : +243 899 330 358 Email,MISC
+12,Kadijah Diallo Chargée,PER
+12,Bureau Régional,ORG
+12,OMS,ORG
+12,Related Links,PER
+13,Angola,LOC
+13,Ebola,LOC
+13,Luanda,ORG
+13,Ebola,LOC
+13,République démocratique du Congo,LOC
+13,Angola,LOC
+13,Lunda Norte,LOC
+13,RDC,LOC
+13,Direction nationale de la santé publique,ORG
+13,Institut national de recherche pour la santé,ORG
+13,Organisation mondiale de la Santé,ORG
+13,OMS,ORG
+13,Fonds des Nations Unies,ORG
+13,UNICEF,ORG
+13,Tchissanda,LOC
+13,Fortuna,PER
+13,Nachire,PER
+13,Lunda Norte,LOC
+13,Ebola,LOC
+13,Ebola,LOC
+13,Ministère de la santé,ORG
+13,Dr Eusébio Manuel,MISC
+13,Ministère de la santé de l',ORG
+13,Angola,LOC
+13,Angola,LOC
+13,Ebola,LOC
+13,Luanda Norte,PER
+13,Angola,LOC
+13,Dre Noémia Silva,MISC
+13,Lunda Norte,LOC
+13,OMS,ORG
+13,Organisation,ORG
+13,RDC,LOC
+13,RDC,LOC
+13,OMS,ORG
+13,Cliquez,LOC
+13,Rosa Pedro Communication,PER
+13,WHO,ORG
+13,Angola Collins Boakye-Agyemang,PER
+13,Tel,MISC
+13,WhatsApp,ORG
+13,Email,MISC
+14,Mali,LOC
+14,Bamako,LOC
+14,Kadidia,PER
+14,Bamako,LOC
+14,Kadidia,MISC
+14,Mali,LOC
+14,Organisation mondiale de la Santé,ORG
+14,OMS,ORG
+14,L'appui de l',MISC
+14,Organisation,ORG
+14,OMS,ORG
+14,Dr N'Tji Keita,ORG
+14,Chef,LOC
+14,Département,LOC
+14,Office National de la Santé de la Reproduction,ORG
+14,OMS,ORG
+14,Mali,LOC
+14,Comptes nationaux,ORG
+14,Mère-Enfant-Adolescent,PER
+14,Sikasso,LOC
+14,Macina,PER
+14,Dr Sylla Ousmane,MISC
+14,Programme santé sexuelle,ORG
+14,OMS,ORG
+14,Mali,LOC
+14,Kebila,PER
+14,Assetou,LOC
+14,Yanfolila,LOC
+14,Bamako,LOC
+14,Kadidia,PER
+14,Cliquez,LOC
+14,Kadijah Diallo Chargée,PER
+14,Bureau Régional,ORG
+14,OMS,ORG
+14,Abdoulaye WHO,PER
+14,Library,LOC
+14,Email,LOC
+15,Namibie,LOC
+15,Andra Chigova,PER
+15,Windhoek,LOC
+15,Namibie,LOC
+15,Andra,LOC
+15,Organisation mondiale de la Santé,ORG
+15,OMS,ORG
+15,Namibie,LOC
+15,Andra,LOC
+15,Temptation Chigova,PER
+15,Gouvernement,LOC
+15,Namibie,LOC
+15,Namibie,LOC
+15,Namibie,LOC
+15,Stratégie mondiale,ORG
+15,OMS,ORG
+15,Namibie,LOC
+15,Ramona Mbadeka,PER
+15,Groot Aub,PER
+15,Windhoek,LOC
+15,Dre Esperance Luvindao,LOC
+15,Ministre namibienne de la santé et des services sociaux,ORG
+15,OMS,ORG
+15,Organisation,ORG
+15,OMS,ORG
+15,CREC,ORG
+15,OMS,ORG
+15,CREC,ORG
+15,Dr Richard Banda,MISC
+15,Représentant de l'OMS,MISC
+15,Namibie,LOC
+15,Gouvernement,LOC
+15,Namibie,LOC
+15,Andra,PER
+15,Cliquez,LOC
+15,Johanna Nambahu Communications Officer,PER
+15,255121/191 Fax: +264-61-2046202 Email,MISC
+15,Collins Boakye-Agyemang Communications,PER
+15,Tel,MISC
+15,WhatsApp,ORG
+15,Email,MISC
+16,Bissau,LOC
+16,Guinée-Bissau,LOC
+16,Ministère de la santé,ORG
+16,Organisation mondiale de la Santé,ORG
+16,OMS,ORG
+16,Objectifs,MISC
+16,Guinée-Bissau,LOC
+16,Dr Elizio Junior Baldé Ferreira,MISC
+16,Directeur du service de santé sexuelle et reproductive,MISC
+16,Ministère de la santé publique de,ORG
+16,Guinée-Bissau,LOC
+16,OMS,ORG
+16,Plan,LOC
+16,Ministère de la santé,ORG
+16,OMS,ORG
+16,Ministère de la santé,ORG
+16,Organisation,ORG
+16,OMS,ORG
+16,Organisation,ORG
+16,Dre Daisy Trovoada,MISC
+16,Bureau régional de l'OMS,ORG
+16,l'Afrique,LOC
+16,Bolama,LOC
+16,Farim,LOC
+16,Gabu,LOC
+16,Guinée-Bissau,LOC
+16,Dr Walter Kazadi Mulombo,MISC
+16,Représentant par intérim de l',MISC
+16,OMS,ORG
+16,Guinée-Bissau,LOC
+16,OMS,ORG
+16,Ministère de la santé,ORG
+16,Objectifs,MISC
+16,Guinée-Bissau,LOC
+16,Cliquez,LOC
+16,MONCADA,ORG
+16,Nadia Imelda Donor,PER
+16,Collins Boakye-Agyemang,PER
+16,Tel,MISC
+16,WhatsApp,ORG
+16,Email,MISC
+17,Réponse,LOC
+17,Congo,LOC
+17,île Mbamou,LOC
+17,Brazzaville,LOC
+17,Angèle,MISC
+17,île Mbamou,LOC
+17,République du Congo,LOC
+17,île Mbamou,LOC
+17,Talangaï,PER
+17,Brazzaville,LOC
+17,Mossaka-Loukolela,LOC
+17,département de Congo-Oubangui,LOC
+17,Organisation mondiale de la Santé,ORG
+17,OMS,ORG
+17,OMS,ORG
+17,Système de gestion des incidents,MISC
+17,SGI,ORG
+17,OMS,ORG
+17,Mbamou,LOC
+17,Mossaka,MISC
+17,Talangaï,MISC
+17,OMS,ORG
+17,Mbamou,LOC
+17,Brazzaville,LOC
+17,Dr Nelson Bokale,MISC
+17,île Mbamou,LOC
+17,Surge,LOC
+17,Organisation,ORG
+17,île Mbamou,LOC
+17,Dr Vincent Dossou Sodjinou,MISC
+17,Représentant de l'OMS,MISC
+17,Congo,LOC
+17,OMS,ORG
+17,OMS,ORG
+17,Angèle,MISC
+17,Cliquez,LOC
+17,Kadijah Diallo Chargée,PER
+17,Bureau Régional,ORG
+17,OMS,ORG
+17,Mohamed Diawara Chargé,PER
+17,OMS,ORG
+17,Email,LOC
+17,Tél,LOC
+18,Journée mondiale de l'aide humanitaire 2025,MISC
+18,Abidine,PER
+18,Mbera,LOC
+18,Mauritanie,LOC
+18,Mbera,ORG
+18,Journée mondiale de l'aide humanitaire,MISC
+18,Renforcer la solidarité mondiale,MISC
+18,Abidine Ould Sidewa,PER
+18,Mbera,LOC
+18,Mauritanie,LOC
+18,Mbera,LOC
+18,Tombouctou,LOC
+18,Maliens,LOC
+18,rencontrez,PER
+18,Pouvez,PER
+18,Quels,LOC
+18,Cliquez,LOC
+18,Kadijah Diallo Chargée,PER
+18,Bureau Régional,ORG
+18,OMS,ORG
+18,Kissima Tandia Chargé,MISC
+18,OMS Mauritanie,MISC
+19,Réponse,LOC
+19,Mberra,LOC
+19,Mauritanie,LOC
+19,Camp de Mberra –,MISC
+19,Mberra,LOC
+19,ministère de la Santé,LOC
+19,Mauritanie,LOC
+19,Organisation mondiale de la Santé,ORG
+19,OMS,ORG
+19,Mberra,LOC
+19,OMS,ORG
+19,Fatou,PER
+19,Dre,LOC
+19,Charlotte Faty Ndiaye,PER
+19,Représentante,PER
+19,OMS,ORG
+19,Mauritanie,LOC
+19,Mberra,LOC
+19,OMS,ORG
+19,ministère de la Santé,LOC
+19,Mauritanie,LOC
+19,Mberra,LOC
+19,Cliquez,LOC
+19,Kissima Tandia Chargé,MISC
+19,OMS Mauritanie Bakano Otto WHO Regional Office for,MISC
+20,Mberra,LOC
+20,Mauritanie,LOC
+20,Mberra,LOC
+20,Bassiknou,LOC
+20,Santé,LOC
+20,Organisation mondiale de la Santé,ORG
+20,OMS,ORG
+20,Mberra,LOC
+20,Mariata,PER
+20,Bassiknou,PER
+20,Ibrahim,ORG
+20,OMS,ORG
+20,OMS,ORG
+20,Dre Charlotte Ndiaye,LOC
+20,Représentante,PER
+20,OMS,ORG
+20,Mauritanie,LOC
+20,Cliquez,LOC
+20,Maria Ludovica,PER
+20,OMS,ORG
+20,Office for,ORG
+21,Mauritanie,LOC
+21,Amourj,LOC
+21,Hodh El Chargui,PER
+21,Maliens,PER
+21,Cheick Oumar,PER
+21,Amourj,LOC
+21,Bureau de l'Organisation mondiale de la Santé,ORG
+21,OMS,ORG
+21,Mauritanie,LOC
+21,Ministère de la Santé,LOC
+21,Fonds central,ORG
+21,Nations Unies,ORG
+21,CERF,ORG
+21,Amourj,LOC
+21,Timbedra,LOC
+21,Adel Bagrou,PER
+21,Bassikounou,PER
+21,Total 66,MISC
+21,Méharistes,MISC
+21,Hodh El Chargui,PER
+21,Fatma Zahra,PER
+21,Mauritanie,LOC
+21,Dr Elimine Cheick,MISC
+21,Adel Bagrou,PER
+21,Renforcer,PER
+21,Dre,LOC
+21,Charlotte Faty Ndiaye,PER
+21,Représentante,PER
+21,OMS,ORG
+21,Mauritanie,LOC
+21,Cliquez,LOC
+21,Kissima Tandia Chargé,MISC
+21,OMS Mauritanie,MISC
+22,Élargir,MISC
+22,Soudan du Sud,LOC
+22,Juba,MISC
+22,Soudan du Sud,LOC
+22,Ministère de la santé,ORG
+22,Organisation mondiale de la Santé,ORG
+22,OMS,ORG
+22,États du pays,MISC
+22,Soudan du Sud,LOC
+22,OMS,ORG
+22,États de Warrap,LOC
+22,Bahr el Ghazal,LOC
+22,Torit,LOC
+22,Wau,LOC
+22,États de Torit,MISC
+22,Malakal,LOC
+22,Renk,LOC
+22,Wau,LOC
+22,Faida Jackline,PER
+22,Kator,PER
+22,Juba,LOC
+22,États,LOC
+22,OMS,ORG
+22,OMS,ORG
+22,comté de Juba,LOC
+22,OMS,ORG
+22,Vivian Hawa,PER
+22,Ministère de la santé de l'État de l'Équatoria central,ORG
+22,Kenyi Emmanuel Wani,PER
+22,Munuki,LOC
+22,Juba,LOC
+22,Soudan du Sud,LOC
+22,Dr Humphrey Karamagi,MISC
+22,Représentant de l'OMS,MISC
+22,Soudan du Sud,LOC
+22,OMS,ORG
+22,Ministère de la santé,ORG
+22,Cliquez,LOC
+22,Collins Boakye-Agyemang,PER
+22,Tel,MISC
+22,WhatsApp,ORG
+22,Email:,MISC
+22,Mr Atem John Ajang,MISC
+22,Email,LOC
+23,Renforcer,PER
+23,RDC,LOC
+23,Kinshasa,LOC
+23,République démocratique du Congo,LOC
+23,RDC,LOC
+23,Afrique,LOC
+23,Organisation mondiale de la Santé,ORG
+23,OMS,ORG
+23,Réseau mondial d'alerte et d'action en cas d'épidémie,ORG
+23,GOARN,ORG
+23,GOARN,ORG
+23,OMS,ORG
+23,RDC,LOC
+23,Nairobi,LOC
+23,Dr André Basilua Muzembo,MISC
+23,Université de Hyogo,LOC
+23,Japon,LOC
+23,OMS,ORG
+23,Clinique Kinoise,MISC
+23,Kinshasa,LOC
+23,Kinshasa,LOC
+23,Clinique Kinoise,MISC
+23,Dr Muzembo,MISC
+23,Kokolo,LOC
+23,Vijana,PER
+23,Masina Cinquantenaire,PER
+23,Kinkole,PER
+23,Programme national multisectoriel,ORG
+23,PNMLS,ORG
+23,Médecins Sans Frontières,ORG
+23,MSF,ORG
+23,Kinshasa,LOC
+23,hôpital de Kokolo,LOC
+23,Ndolo,PER
+23,Clinique Kinoise,MISC
+23,Stade Tata,ORG
+23,Bandalungwa,PER
+23,OMS,ORG
+23,Dr Muzembo,MISC
+23,UK Public,ORG
+23,Support Team,MISC
+23,Agence de santé publique du Canada,ORG
+23,Research Institute of Nursing Care,ORG
+23,Université de Hyogo,LOC
+23,Centre européen,ORG
+23,Jerry-Jonas Mbasha,MISC
+23,GOARN,ORG
+23,Bureau régional de l'OMS,ORG
+23,l'Afrique,LOC
+23,GOARN,ORG
+23,Global,ORG
+23,GOARN,ORG
+23,RDC,LOC
+23,RDC,ORG
+23,Dr Boureima Hama Sambo,ORG
+23,Représentant de l',MISC
+23,OMS,ORG
+23,RDC,LOC
+23,Cliquez,LOC
+23,MONCADA,ORG
+23,Nadia Imelda Donor,PER
+23,Eugene Kabambi,PER
+23,Office,MISC
+23,Email,LOC
+24,RDC,LOC
+24,Kinshasa,LOC
+24,Salima,LOC
+24,Kinshasa,LOC
+24,Est,LOC
+24,Kinshasa,LOC
+24,Kinkole,LOC
+24,Kinkole,LOC
+24,Kinshasa,LOC
+24,RDC,LOC
+24,Kalemie,LOC
+24,Mbandaka,LOC
+24,Kisangani,LOC
+24,Kalehe,LOC
+24,Fizi,ORG
+24,Kinshasa,LOC
+24,Tanganyika,LOC
+24,Sud-est,LOC
+24,Kalemie,LOC
+24,Nyemba,MISC
+24,Centre,LOC
+24,COUSP,ORG
+24,Organisation mondiale de la Santé,ORG
+24,OMS,ORG
+24,Ministère de la santé,ORG
+24,OMS,ORG
+24,Dre Émilia Sana,PER
+24,Ministère de la Santé publique,ORG
+24,Hygiène,PER
+24,Kinshasa,LOC
+24,OMS,ORG
+24,OMS,ORG
+24,Dr Guy Kalambayi,MISC
+24,OMS,ORG
+24,Bureau de la RDC,ORG
+24,Dr Kalambayi,ORG
+24,OMS,ORG
+24,OMS,ORG
+24,RDC,ORG
+24,Ngaliema,LOC
+24,Lemba,LOC
+24,Matete,LOC
+24,Kinshasa,LOC
+24,OMS,ORG
+24,Kinkole,LOC
+24,Albertine,LOC
+24,Kinshasa,LOC
+24,Salima,LOC
+24,Cliquez,LOC
+24,Kadijah Diallo Chargée,PER
+24,Bureau Régional,ORG
+24,OMS,ORG
+24,Eugene Kabambi Communications Officer,PER
+24,Office,MISC
+24,Email,LOC
+25,Zambie,LOC
+25,Lusaka,ORG
+25,Zambie,LOC
+25,VCAT,ORG
+25,VCAT,ORG
+25,Zambie,LOC
+25,Dr Samson Chisele,MISC
+25,Centre,LOC
+25,Lusaka,LOC
+25,Ministère de la santé,ORG
+25,Organisation mondiale de la Santé,ORG
+25,OMS,ORG
+25,Zambie,LOC
+25,Dr Chisele,MISC
+25,VCAT,ORG
+25,Ministère de la Santé,ORG
+25,Zambie,LOC
+25,Zambie,LOC
+25,Hamatanga Gwangai,PER
+25,Mululu,LOC
+25,Chibombo,LOC
+25,Zambie,LOC
+25,Helen Mwape,PER
+25,James Milambo Memorial,PER
+25,district de Lufwanyama,LOC
+25,Copperbelt,LOC
+25,Ministère de la santé,ORG
+25,VCAT,ORG
+25,Danny Kasongo,PER
+25,Misenga,LOC
+25,district de Mansa,LOC
+25,Luapula,LOC
+25,VCAT,ORG
+25,OMS,ORG
+25,Dr Clement Peter Lasuba,MISC
+25,Représentant de l'OMS,MISC
+25,Zambie,LOC
+25,Dr,MISC
+25,VCAT,ORG
+25,Cliquez,LOC
+25,Collins Boakye-Agyemang,PER
+25,Tel,MISC
+25,WhatsApp,ORG
+25,Email,MISC
+26,Dre Gloria,PER
+26,Burkina Faso,LOC
+26,Ouagadougou,MISC
+26,Burkina Faso,LOC
+26,SS,ORG
+26,Dre Gloria,MISC
+26,Association CID,ORG
+26,B,LOC
+26,Centre d'Initiative,LOC
+26,Drépanocytose,LOC
+26,Burkina Faso,LOC
+26,Centre,LOC
+26,S,PER
+26,Avez,LOC
+26,ministère de la Santé,LOC
+26,CID,MISC
+26,B,LOC
+26,ministère de la Santé,LOC
+26,Direction de la prévention et du contrôle des maladies non transmissibles,ORG
+26,DPCM,ORG
+26,Agence Française de Développement,ORG
+26,Fondation Pierre FABRE,ORG
+26,Principauté de Monaco,LOC
+26,DPCM,ORG
+26,Grace,PER
+26,CID,MISC
+26,B,LOC
+26,Avez,LOC
+26,ministère de la Santé,LOC
+26,DPCM,ORG
+26,Quels,LOC
+26,DPCM,ORG
+26,défis,PER
+26,ministère de la Santé,LOC
+26,Cliquez,LOC
+26,Kadijah Diallo Chargée,PER
+26,Bureau Régional,ORG
+26,OMS,ORG
+26,Oumarou Tarpaga Chargé,PER
+26,OMS Burkina Faso +22670760485,MISC
+27,OMS,ORG
+27,RDC,LOC
+27,Goma –,MISC
+27,Lubero,LOC
+27,Laboratoire de l',ORG
+27,Institut National de Recherche Biomédicale,ORG
+27,INRB,ORG
+27,Goma,LOC
+27,parc national de Virunga,LOC
+27,Nord-Kivu,LOC
+27,Laboratoire vétérinaire de Goma,LOC
+27,Organisation mondiale de la Santé,ORG
+27,OMS,ORG
+27,UNICEF,ORG
+27,FAO,ORG
+27,CDC Afrique,ORG
+27,Santé,LOC
+27,Binza,LOC
+27,Rutshuru,LOC
+27,Binza,LOC
+27,Lubero,LOC
+27,Dre Aline Katerekwa,PER
+27,Programme national des Urgences,ORG
+27,Action humanitaire,ORG
+27,OMS,ORG
+27,Dr Célestin Ndaliko,MISC
+27,OMS,ORG
+27,RDC,LOC
+27,Binza,LOC
+27,Nord-Kivu,LOC
+27,Dr Leopold Ouedraogo,MISC
+27,du Nord,LOC
+27,Sud Kivu,LOC
+27,OMS,ORG
+27,Binza,LOC
+27,Rutshuru,LOC
+27,Binza,LOC
+27,Dr Bernard Kakule,MISC
+27,Médecin,PER
+27,Binza,LOC
+27,OMS,ORG
+27,République Démocratique du Congo,LOC
+27,Ouganda,LOC
+27,Rutshuru,LOC
+27,OMS,ORG
+27,Organisation,ORG
+27,INRB,LOC
+27,OMS,ORG
+27,Binza,LOC
+27,Lubero,LOC
+27,Pierre,MISC
+27,Cliquez,LOC
+27,Kadijah Diallo Chargée,PER
+27,Bureau Régional,ORG
+27,OMS,ORG
+27,Eugene Kabambi Communications Officer,PER
+27,Office,MISC
+27,Email,LOC
+28,Élargir,MISC
+28,Éthiopie,LOC
+28,Addis,LOC
+28,Éthiopie,LOC
+28,Organisation mondiale de la Santé,ORG
+28,OMS,ORG
+28,Ministère de la santé,ORG
+28,Daniel Nadew,PER
+28,Bureau de la santé de la ville d'Addis-Abeba,ORG
+28,Kolfe,PER
+28,Addis-Abeba,LOC
+28,DMPA,MISC
+28,assortis,PER
+28,Fatima Belay,ORG
+28,Addis-Abeba,LOC
+28,Fatima,LOC
+28,Éthiopie,LOC
+28,Amhara,LOC
+28,OMS,ORG
+28,Institut éthiopien de santé publique,ORG
+28,Gish,ORG
+28,Tilili,PER
+28,Daniel Nadew,PER
+28,Dr Owen Kaluwa,MISC
+28,Représentant de l'OMS,MISC
+28,Éthiopie,LOC
+28,Éthiopie,LOC
+28,OMS,ORG
+28,Nom modifié,PER
+28,Cliquez,LOC
+28,Yilma Selamawit,PER
+28,Email,MISC
+28,MONCADA SEVILLA,ORG
+28,Nadia Imelda Donor,PER
+29,RDC,LOC
+29,OMS,ORG
+29,Est,LOC
+29,Goma,MISC
+29,de l'Est,LOC
+29,RDC,LOC
+29,Nord-Kivu,LOC
+29,Sud-Kivu,LOC
+29,Goma,LOC
+29,Organisation mondiale de la Santé,ORG
+29,OMS,ORG
+29,Goma,LOC
+29,OMS,ORG
+29,Karisimbi,LOC
+29,Centre,LOC
+29,Mugunga,LOC
+29,Anne-Marie,PER
+29,Goma,LOC
+29,Karisimbi,LOC
+29,Kibirizi,LOC
+29,Kirotshe,LOC
+29,Masisi,LOC
+29,Nyiragongo,LOC
+29,Rutshuru,LOC
+29,RDC,LOC
+29,Dr Richard Kitenge Omasumbu,MISC
+29,Opérations' au Centre,ORG
+29,COUSP,ORG
+29,RDC,LOC
+29,OMS,ORG
+29,CREC,ORG
+29,CREC,ORG
+29,RECO,LOC
+29,Goma,LOC
+29,Karisimbi,LOC
+29,Nyiragongo,LOC
+29,Kirotshe,LOC
+29,Nord,LOC
+29,Sud Kivu,LOC
+29,Nord-Kivu,LOC
+29,Shasha,ORG
+29,Lihihi,MISC
+29,Sud-Kivu,LOC
+29,Organisation,ORG
+29,OMS,ORG
+29,Goma,LOC
+29,Kirotshe,LOC
+29,Karisimbi,LOC
+29,Nyiragongo,LOC
+29,Organisation,ORG
+29,Nord-Kivu,LOC
+29,CTC,ORG
+29,Mugunga,LOC
+29,Anne-Marie,PER
+29,Anne-Marie,PER
+29,OMS,ORG
+29,Nord,LOC
+29,Sud Kivu,LOC
+29,OMS,ORG
+29,Mugunga,LOC
+29,Dr Alain Kakule,MISC
+29,Coordonnateur de terrain de la réponse à la crise,MISC
+29,Nord Kivu,LOC
+29,OMS,ORG
+29,Goma,LOC
+29,Freedom,LOC
+29,Mugunga,LOC
+29,Freedom,LOC
+29,L'OMS,ORG
+29,Divisions provinciales de la Santé,MISC
+29,OMS,ORG
+29,Dr Boureima Hama Sambo,ORG
+29,Représentant de l',MISC
+29,OMS,ORG
+29,RDC,LOC
+29,Anne-Marie,PER
+29,Cliquez,LOC
+29,Kadijah Diallo Chargée,PER
+29,Bureau Régional,ORG
+29,OMS,ORG
+29,Eugene Kabambi Communications Officer,PER
+29,Office,MISC
+29,Email,LOC
+30,Angola,LOC
+30,Luanda,ORG
+30,Boa Vista,PER
+30,Luanda,LOC
+30,Angola,LOC
+30,Silva,PER
+30,Ingombota,LOC
+30,Mika Kaquesse,PER
+30,Dre Genoveva Mafu,MISC
+30,Boa Vista,PER
+30,Ministère de la santé de l',ORG
+30,Angola,LOC
+30,Organisation mondiale de la Santé,ORG
+30,OMS,ORG
+30,Mateus Mariano Miguel,PER
+30,Boa Vista,PER
+30,Angola,LOC
+30,Dr Indrajit Hazarika,MISC
+30,OMS,ORG
+30,Angola,LOC
+30,Cliquez,LOC
+30,Olívio Gambo Oficial,PER
+30,Comunicação Escritório,MISC
+30,OMS,ORG
+30,Angola T,MISC
+30,Collins,LOC
+30,Boakye-Agyemang,PER
+30,Tel,MISC
+30,WhatsApp,ORG
+30,Email,MISC
+31,Niger,LOC
+31,Niamey,LOC
+31,Niger,LOC
+31,Afrique de l'Ouest,LOC
+31,Niger,LOC
+31,Mariama,PER
+31,Batako,LOC
+31,Dosso,LOC
+31,Nafissatou Salifou Panga,PER
+31,Point focal de santé de la reproduction du district sanitaire,MISC
+31,Dosso,MISC
+31,Mariama,PER
+31,Mariama,PER
+31,Dosso,LOC
+31,Filingué,LOC
+31,Mariama,PER
+31,Banque mondiale,ORG
+31,Dre Aissatou Laouali,ORG
+31,OMS Niger,MISC
+31,OMS,ORG
+31,OMS,ORG
+31,Ministère de la Santé,ORG
+31,Hygiène Publiques,LOC
+31,Mère-Enfant,PER
+31,OMS,ORG
+31,Niger,LOC
+31,OMS,ORG
+31,Dosso,LOC
+31,Filingué,LOC
+31,Cliquez,LOC
+31,Kadijah Diallo Chargée,PER
+31,Bureau Régional,ORG
+31,OMS,ORG
+32,Mali,LOC
+32,Bamako,LOC
+32,Aziz,LOC
+32,Région africaine,LOC
+32,Région,LOC
+32,Mali,LOC
+32,Organisation mondiale de la Santé,ORG
+32,OMS,ORG
+32,Moussa,PER
+32,Dr Abdoulaye Koné,MISC
+32,Mali,LOC
+32,Mali,LOC
+32,Dr Koné,MISC
+32,Mali,LOC
+32,Ministère de la santé,ORG
+32,Grace,PER
+32,OMS,ORG
+32,Organisation,ORG
+32,OMS,ORG
+32,OMS,ORG
+32,Ministère de la santé,ORG
+32,OMS,ORG
+32,Dr Patrick Kaboré,MISC
+32,OMS,ORG
+32,Mali,LOC
+32,Aziz,LOC
+32,Aziz,LOC
+32,Aziz,LOC
+32,Cliquez,LOC
+32,Kayi Lawson Chargée,PER
+32,Bureau régional,ORG
+32,Cissé Abdoulaye Chargé,PER
+33,Les Ministres de la santé des pays de la Corne de l'Afrique,MISC
+33,Brazzaville,LOC
+33,Amman,LOC
+33,Genève,LOC
+33,Corne de l'Afrique,LOC
+33,Corne de l'Afrique,LOC
+33,Assemblée mondiale de la Santé,ORG
+33,Ministres de la santé des pays de la Corne de l'Afrique,MISC
+33,Initiative mondiale,MISC
+33,Région,LOC
+33,Région,LOC
+33,Djibouti,LOC
+33,Éthiopie,LOC
+33,Kenya,LOC
+33,Somalie,LOC
+33,Somalie,LOC
+33,Éthiopie,LOC
+33,Kenya,LOC
+33,Éthiopie,LOC
+33,Somalie,LOC
+33,Kenya,LOC
+33,Éthiopie,LOC
+33,Somalie,LOC
+33,Somalie,LOC
+33,VPOn2,MISC
+33,Éthiopie,LOC
+33,Kenya,LOC
+33,Djibouti,LOC
+33,Corne de l'Afrique,LOC
+33,Kenya,LOC
+33,Kakuma,PER
+33,Somalie,LOC
+33,Éthiopie,LOC
+33,Corne de l'Afrique,LOC
+33,OMS,ORG
+33,Initiative mondiale,MISC
+33,Dr Chikwe Ihekweazu,MISC
+33,Directeur régional par intérim du,MISC
+33,Bureau régional de l'OMS,ORG
+33,l'Afrique,LOC
+33,Somalie,LOC
+33,Éthiopie,LOC
+33,Kenya,LOC
+33,Dre Hanan Balkhy,PER
+33,Directrice,PER
+33,OMS,ORG
+33,Méditerranée,LOC
+33,Corne de l'Afrique,LOC
+33,Kampala,LOC
+33,OMS,ORG
+33,Initiative mondiale,MISC
+33,Djibouti,LOC
+33,Éthiopie,LOC
+33,Kenya,LOC
+33,Somalie,LOC
+33,République-Unie de Tanzanie,LOC
+33,Ouganda,LOC
+33,Cliquez,LOC
+33,Monge Marta Villa,PER
+34,Les Seychelles,LOC
+34,Victoria,PER
+34,les Seychelles,LOC
+34,Seychelles,LOC
+34,Organisation mondiale de la Santé,ORG
+34,OMS,ORG
+34,États insulaires,LOC
+34,Seychelles,LOC
+34,OMS,ORG
+34,IMC,ORG
+34,Seychelles,LOC
+34,IMC,ORG
+34,SeyPen,MISC
+34,OMS,ORG
+34,Gouvernement,LOC
+34,Jourdanne Letourdie,PER
+34,Anse,LOC
+34,Pins,LOC
+34,Est,LOC
+34,Mahé,LOC
+34,Seychelles,LOC
+34,OMS,ORG
+34,Johannesburg,LOC
+34,Afrique,LOC
+34,Ministre de la santé des Seychelles,ORG
+34,Peggy Vidot,PER
+34,Président Wavel Ramkalawan,PER
+34,Stop,MISC
+34,Mangez,MISC
+34,Agence nationale de soins de santé,ORG
+34,Seychelles Broadcasting Corporation,ORG
+34,Programme de « Bien-être sur le lieu de travail,ORG
+34,IMC,ORG
+34,Ministère de l'éducation,ORG
+34,Politique nationale de nutrition scolaire de 2008,ORG
+34,Ministère de la jeunesse,ORG
+34,Ministère,LOC
+34,Stéphanie Desnousse,PER
+34,Ministère de la santé,ORG
+34,Ministère de la santé,ORG
+34,Cliquez,LOC
+34,Doreen Hotive Health Promotion Officer,MISC
+34,Email,LOC
+34,Collins Boakye-Agyemang,PER
+34,Tel,MISC
+34,WhatsApp,ORG
+34,Email,MISC
+35,Angola,LOC
+35,Luanda,ORG
+35,Abel Kanivete,PER
+35,Cuanza Sul,LOC
+35,Angola,LOC
+35,Abel,PER
+35,Angolais,LOC
+35,Ministère de la santé,ORG
+35,Organisation mondiale de la Santé,ORG
+35,OMS,ORG
+35,Cuanza Sul,PER
+35,OMS,ORG
+35,OMS,ORG
+35,Dr Kuku Muhao,MISC
+35,OMS,ORG
+35,Angola,LOC
+35,OMS,ORG
+35,Cambongo,LOC
+35,Direction provinciale de l'eau,ORG
+35,Croix-Rouge,ORG
+35,–,MISC
+35,Une latrine par famille,MISC
+35,Cuanza Sul,PER
+35,OMS,ORG
+35,Dr Indrajit Hazarika,MISC
+35,OMS,ORG
+35,Angola,LOC
+35,Cliquez,LOC
+35,Olívio Gambo Oficial,PER
+35,Comunicação Escritório,MISC
+35,OMS,ORG
+35,Angola T,MISC
+35,Collins,LOC
+35,Boakye-Agyemang,PER
+35,Tel,MISC
+35,WhatsApp,ORG
+35,Email,MISC
+36,Soudan du Sud,LOC
+36,Juba,MISC
+36,Soudan du Sud,LOC
+36,Mary Mania,PER
+36,hôpital d'État de Torit,LOC
+36,Équatoria oriental,LOC
+36,Soudan du Sud,LOC
+36,Mania,LOC
+36,Mania,LOC
+36,Darfour,LOC
+36,Soudan,LOC
+36,Torit,LOC
+36,Mania,LOC
+36,Kulang Jasenta,PER
+36,Kulang Jasenta,PER
+36,hôpital Torit,LOC
+36,Jasenta,PER
+36,Keji Âgée,MISC
+36,Rose Keji,PER
+36,hôpital d'État,LOC
+36,Torit,LOC
+36,Keji,PER
+36,Keji,PER
+36,Cliquez,LOC
+37,Mozambique,LOC
+37,Maputo ‒ Filipe Basílio,PER
+37,province de,LOC
+37,Nampula,LOC
+37,Mozambique,LOC
+37,Ministère de la santé du pays,ORG
+37,Ministère de la santé,ORG
+37,Système d'information intégré sur le paludisme,MISC
+37,Dr Baltazar Candrinho,MISC
+37,Programme national de lutte contre le paludisme au,ORG
+37,Mozambique,LOC
+37,Dr Candrinho,MISC
+37,Mozambique,LOC
+37,Basílio,LOC
+37,Mozambique,LOC
+37,Afrique,LOC
+37,Mozambique,LOC
+37,Dr Lawrence Kazembe,MISC
+37,Programme,ORG
+37,Bureau régional de l'OMS,LOC
+37,Mozambique,LOC
+37,Mozambique,LOC
+37,océan Indien,LOC
+37,OMS,ORG
+37,OMS,ORG
+37,Dre Eva de Carvalho,PER
+37,Médecin,PER
+37,OMS,ORG
+37,Mozambique,LOC
+37,Dr Candrinho,MISC
+38,Congo,LOC
+38,Brazzaville,LOC
+38,Région africaine,LOC
+38,Congo,LOC
+38,Ministère de la santé et de la Population,ORG
+38,Organisation mondiale de la Santé,ORG
+38,OMS,ORG
+38,CREC,ORG
+38,Vinny Joseph Mollitan,PER
+38,CREC,ORG
+38,Centre,LOC
+38,COUSP,ORG
+38,Brazzaville,LOC
+38,Cuvette,LOC
+38,Cuvette Ouest,PER
+38,Likouala,LOC
+38,Plateaux,LOC
+38,Pointe-Noire,LOC
+38,Murphy Nzitoukoulou,PER
+38,Lumumba,LOC
+38,Congo,LOC
+38,Evitez,PER
+38,OMS,ORG
+38,Dr Vincent Dossou Sodjinou,MISC
+38,OMS,ORG
+38,Congo,LOC
+38,OMS,ORG
+38,Organisation,ORG
+38,Allemagne,LOC
+38,Mich,PER
+38,arrondissement de Madibou,LOC
+38,Brazzaville,LOC
+38,CREC,ORG
+38,OMS,ORG
+38,Lumumba,LOC
+38,Murphy,MISC
+38,Cliquez,LOC
+38,Kayi Lawson Chargée,PER
+38,Bureau régional,ORG
+38,Mohamed Diawara Chargé,PER
+38,OMS,ORG
+38,Email,LOC
+38,Tél,LOC
+39,Congo,LOC
+39,Brazzaville,LOC
+39,Congo,LOC
+39,Brazzaville,LOC
+39,hôpital Mère-Enfant,LOC
+39,Dre Frédine Mahoungou,PER
+39,Blanche Gomes,PER
+39,Organisation mondiale de la Santé,ORG
+39,OMS,ORG
+39,Suède,LOC
+39,Minerve Nsouka,PER
+39,hôpital Blanche Gomes,LOC
+39,hôpital Blanche Gomes,LOC
+39,Nsouka,MISC
+39,OMS,ORG
+39,OMS,ORG
+39,Ghislaine,PER
+39,Région africaine,LOC
+39,Région,LOC
+39,Congo,LOC
+39,OMS,ORG
+39,Congo,LOC
+39,Dr Vincent Dossou Sodjinou,MISC
+39,OMS,ORG
+39,Congo,LOC
+39,Dre Mahoungou,MISC
+39,Cliquez,LOC
+39,Kayi Lawson Chargée,PER
+39,Bureau régional,ORG
+39,Mohamed Diawara Chargé,PER
+39,OMS,ORG
+39,Email,LOC
+39,Tél,LOC
+40,Niger,LOC
+40,Niamey,PER
+40,Aichatou,LOC
+40,Birni,LOC
+40,Dosso,LOC
+40,Surveillance,MISC
+40,SDMPR,MISC
+40,Niger,LOC
+40,Système national de l'information sanitaire,MISC
+40,Ministère de la santé publique,ORG
+40,Organisation mondiale de la Santé,ORG
+40,OMS,ORG
+40,Fonds Muskoka,ORG
+40,SONNE,ORG
+40,Action pour le bien-être,ORG
+40,APBE,ORG
+40,Dosso,LOC
+40,Zinder,PER
+40,SONNE,MISC
+40,SONNE,MISC
+40,Hadiza,PER
+40,Dosso,MISC
+40,Dosso,LOC
+40,Centre,LOC
+40,Birni,PER
+40,OMS,ORG
+40,SONNE,MISC
+40,Organisation,ORG
+40,Dre Laouali Aissatou,PER
+40,OMS Niger,ORG
+40,OMS,ORG
+40,SONNE,MISC
+40,Niger,LOC
+40,Aichatou,LOC
+40,Hadiza,PER
+40,Cliquez,LOC
+40,Marie Danielle,PER
+40,Fati AMADOU,MISC
+41,Sénégal,LOC
+41,Badiénou Gox,LOC
+41,Dakar,LOC
+41,Ndèye,LOC
+41,Guédiawaye,LOC
+41,Dakar,LOC
+41,ça,MISC
+41,Ndèye,LOC
+41,Sénégal,LOC
+41,Sénégal,LOC
+41,Badiénou Gox,PER
+41,Badiène,LOC
+41,Président de la République,PER
+41,Badiénou,PER
+41,Badiénou Gox,MISC
+41,Dr Amadou Doucouré,MISC
+41,Badiénou Gox,MISC
+41,Sénégal,LOC
+41,Badiénou Gox,MISC
+41,Badiénou Gox,MISC
+41,Oulèye,LOC
+41,Badiénou Gox,PER
+41,Guédiawaye,LOC
+41,Organisation mondiale de la Santé,ORG
+41,OMS,ORG
+41,Badiénou Gox,MISC
+41,OMS,ORG
+41,Ministère,LOC
+41,santé,ORG
+41,MSAS,ORG
+41,Badiénou Gox,PER
+41,Santé maternelle néonatale,MISC
+41,SRMNIA,ORG
+41,Badiénou Gox,MISC
+41,Dr Jean Marie Vianny Yameogo,MISC
+41,Représentant de l'OMS,MISC
+41,Sénégal,LOC
+41,OMS,ORG
+41,Sénégal,LOC
+41,Sénégal,LOC
+41,Badiénou,MISC
+41,Badiène Oulèye,PER
+41,Ndèye,LOC
+41,HPV,MISC
+41,Ndèye,LOC
+41,Badiène Oulèye,PER
+41,Ndèye,LOC
+41,Badiène Oulèye,PER
+41,Cliquez,LOC
+41,Ameyo Bellya Sékpon,PER
+41,Bureau régional Afrique,LOC
+41,OMS Email,MISC
+41,SALL Chargée de Communication OMS Sénégal Email,MISC
+42,Côte d'Ivoire,LOC
+42,Abidjan,LOC
+42,Côte d'Ivoire,LOC
+42,Côte d'Ivoire,LOC
+42,Dr Simon Boni,MISC
+42,Programme national de lutte contre le cancer,ORG
+42,Scale,MISC
+42,Strategy,MISC
+42,Organisation mondiale de la Santé,ORG
+42,OMS,ORG
+42,UNITAID,ORG
+42,Région africaine,LOC
+42,Côte d'Ivoire,LOC
+42,Burkina Faso,LOC
+42,Côte d'Ivoire,LOC
+42,Chantale,LOC
+42,Chantale,LOC
+42,Dieu,MISC
+42,Abidjan,LOC
+42,Gbèkè,LOC
+42,Haut-Sassandra,LOC
+42,Dr Boni,MISC
+42,Ministère,PER
+42,OMS,ORG
+42,Ministère de la santé,ORG
+42,IVA,ORG
+42,hôpital Saint Camille,LOC
+42,Dre Françoise Milolo,MISC
+42,Responsable de l'équipe de dépistage de l'hôpital Saint Camille,MISC
+42,Agnès Diasso,PER
+42,OMS,ORG
+42,Côte d'Ivoire,LOC
+42,OMS,ORG
+42,Dre Fatim Tall,MISC
+42,Coordonnatrice,LOC
+42,Conseillère technique pour la santé maternelle,MISC
+42,OMS,ORG
+42,Côte d'Ivoire,LOC
+42,Cliquez,LOC
+42,Kayi Lawson Chargée,PER
+42,Bureau régional,ORG
+42,Souleymane Chargé,PER
+42,Communication & des Affaires Diplomatiques Mobile,ORG
+43,Congo,LOC
+43,Brazzaville,LOC
+43,Amélie Makoundou,PER
+43,Assistante,LOC
+43,Centre,LOC
+43,Brazzaville,LOC
+43,Amélie,PER
+43,Salomon,LOC
+43,Assistante,LOC
+43,Salomon,LOC
+43,Amélie,PER
+43,Congo,LOC
+43,Organisation mondiale de la Santé,ORG
+43,OMS,ORG
+43,Congo,LOC
+43,GeneXpert,MISC
+43,Dre Darrel,LOC
+43,Directrice du Laboratoire,ORG
+43,LNRM,MISC
+43,OMS,ORG
+43,Fond mondial,ORG
+43,Programme national de lutte contre la tuberculose,ORG
+43,PNLT,ORG
+43,LNRM,MISC
+43,GeneXperts,MISC
+43,OMS,ORG
+43,Programme des Nations Unies,ORG
+43,PNUD,ORG
+43,Fond mondial,ORG
+43,Congo,LOC
+43,Laboratoire,LOC
+43,Organisation mondiale de la Santé,ORG
+43,LNRM,MISC
+43,Dre Assiana,LOC
+43,Amélie Makoundou,PER
+43,Assistante,LOC
+43,Amélie,PER
+43,Congo,LOC
+43,Amélie,PER
+43,Région africaine,LOC
+43,Afrique,LOC
+43,Congo,LOC
+43,OMS,ORG
+43,Congo,LOC
+43,Organisation,ORG
+43,OMS,ORG
+43,Dr Vincent Dossou Sodjinou,MISC
+43,OMS,ORG
+43,Congo,LOC
+43,Notre Organisation,ORG
+43,OMS,ORG
+43,Pr Franck Hardain Okemba-Okombi,MISC
+43,Directeur du PNLT,MISC
+43,Congo,LOC
+43,Amélie,LOC
+43,Cliquez,LOC
+43,Kayi Lawson Chargée,PER
+43,Bureau régional,ORG
+43,Mohamed Diawara Chargé,PER
+43,OMS,ORG
+43,Email,LOC
+43,Tél,LOC
+44,Togo,LOC
+44,Lomé,PER
+44,Yao,PER
+44,Agou,LOC
+44,Lomé,PER
+44,Togo,LOC
+44,OMS,ORG
+44,Professeur Abdou Gafarou Gbadamassi,PER
+44,Coordonnateur du Programme national de lutte contre la tuberculose,MISC
+44,PNLT,ORG
+44,Togo,LOC
+44,GeneXpert,MISC
+44,Organisation mondiale de la Santé,ORG
+44,OMS,ORG
+44,Togo,LOC
+44,GeneXpert,MISC
+44,Le Professeur Gbadamassi,PER
+44,GeneXpert,MISC
+44,Centre,LOC
+44,CHP,ORG
+44,Agou,LOC
+44,Yao,PER
+44,FAST,MISC
+44,Agoè Nyivé,PER
+44,Golfe à Lomé,LOC
+44,Afrique,LOC
+44,CDT,ORG
+44,CDT,ORG
+44,Fonds Mondial,ORG
+44,Yorouma Djobo,PER
+44,Point,LOC
+44,CDT,ORG
+44,CHP,ORG
+44,Agou,LOC
+44,Yorouma,LOC
+44,Yorouma,LOC
+44,GeneXpert,MISC
+44,OMS,ORG
+44,Organisation,ORG
+44,BBNT,ORG
+44,Bénin,LOC
+44,Burkina Faso,LOC
+44,Niger,LOC
+44,Togo,LOC
+44,Dre Laconi Kaaga,PER
+44,Responsable du Programme,MISC
+44,OMS,ORG
+44,Togo,LOC
+44,OMS,ORG
+44,Yao,PER
+44,Si,MISC
+44,Cliquez,LOC
+44,Kadijah Diallo Chargée,PER
+44,Bureau Régional,ORG
+44,OMS,ORG
+44,Issa Niang Chargé,PER
+44,OMS Togo Email,MISC
+45,Faire,PER
+45,Région,LOC
+45,Brazzaville,LOC
+45,Région africaine,LOC
+45,Dr Jean de Dieu Iragena,MISC
+45,OMS,ORG
+45,Région africaine,LOC
+45,Quels,LOC
+45,Région africaine,LOC
+45,GeneXpert,MISC
+45,Quels,LOC
+45,Région,LOC
+45,OMS,ORG
+45,frottis,LOC
+45,GeneXpert,MISC
+45,OMS,ORG
+45,Organisation,ORG
+45,Région africaine,LOC
+45,Cliquez,LOC
+45,Collins Boakye-Agyemang,PER
+45,Tel,MISC
+45,WhatsApp,ORG
+45,Email,MISC
+46,Marburg,LOC
+46,Kagera,LOC
+46,Tanzanie ‒,PER
+46,Domitina Kahira,PER
+46,Biharamulo,LOC
+46,Kagera,LOC
+46,Tanzanie,LOC
+46,Marburg,LOC
+46,Marburg,LOC
+46,Kahira,LOC
+46,Organisation mondiale de la Santé,ORG
+46,OMS,ORG
+46,ministère de la Santé,LOC
+46,UNICEF,ORG
+46,Kahira,LOC
+46,Kahira,PER
+46,OMS,ORG
+46,Jerry Mlembwa,PER
+46,OMS,ORG
+46,Tanzanie,LOC
+46,OMS,ORG
+46,Kahira,PER
+46,Rebecca Gwambasa,PER
+46,OMS,ORG
+46,Cliquez,LOC
+46,Ms Priscilla Mawuena Adjeidu,MISC
+46,United Republic of Tanzania Tel,ORG
+46,Phone,PER
+46,Email,MISC
+46,Collins Boakye-Agyemang,PER
+46,Tel,MISC
+46,WhatsApp,ORG
+46,Email,MISC
+47,Mpox,LOC
+47,RCA,ORG
+47,Mbaïki,MISC
+47,Bagandou,LOC
+47,Bangui,LOC
+47,Mbaïki,LOC
+47,Cyrille,LOC
+47,Conduire,LOC
+47,République Centrafricaine,LOC
+47,Mbaïki,LOC
+47,Bagandou,LOC
+47,Cyrille,LOC
+47,hôpital de Mbaïki,LOC
+47,Organisation mondiale de la Santé,ORG
+47,OMS,ORG
+47,OMS,ORG
+47,Cyrille,PER
+47,Dr Franck Bertin Beltoum,MISC
+47,Mbaïki,LOC
+47,Centrafrique,LOC
+47,OMS,ORG
+47,PCR,ORG
+47,GeneXpert,MISC
+47,OMS,ORG
+47,Organisation,ORG
+47,district de Mbaïki,LOC
+47,USAID,ORG
+47,Dr Thomas D'aquin,MISC
+47,Koyazegbe,PER
+47,OMS,ORG
+47,RCA,ORG
+47,OMS,ORG
+47,Fonds Humanitaire,ORG
+47,RCA,ORG
+47,Mbaïki,MISC
+47,Bagandou,LOC
+47,Cyrille,LOC
+47,Cyrille,LOC
+47,Ange Nzonpou,PER
+47,Cliquez,LOC
+47,René Koundou IFONO,PER
+47,OMS,ORG
+47,République Centrafricaine,LOC
+47,Kayi Lawson Chargée,PER
+47,Bureau régional,ORG
+48,nan,PERSON
+49,Congo,LOC
+49,Brazzaville,LOC
+49,Congo,LOC
+49,Programme national de lutte contre l'onchocercose,ORG
+49,PNLO,ORG
+49,Onchocercose,LOC
+49,Organisation mondiale de la Santé,ORG
+49,OMS,ORG
+49,Sightsavers,ORG
+49,Directeur du PNLO,MISC
+49,Dr Marlhand Hemilembolo,MISC
+49,Mectizan,LOC
+49,Youlou Annie,PER
+49,Véronique,PER
+49,Brazzaville,LOC
+49,Congo,LOC
+49,Véronique,PER
+49,Véronique,PER
+49,PNLO,ORG
+49,Jean-Marie Saboutou,PER
+49,Mfilou,LOC
+49,Brazzaville,LOC
+49,Congo,LOC
+49,OMS,ORG
+49,Dr Vincent Sodjinou,MISC
+49,OMS,ORG
+49,Congo,LOC
+49,Cliquez,LOC
+49,Mohamed Diawara Chargé,PER
+49,OMS,ORG
+49,Email,LOC
+49,Tél,LOC
+50,Sierra Leone,LOC
+50,Freetown –,PER
+50,Sierra Leone,LOC
+50,Organisation mondiale de la Santé,ORG
+50,OMS,ORG
+50,Agence nationale de santé publique,ORG
+50,OMS,ORG
+50,Sierra Leone,LOC
+50,OMS,ORG
+50,Sierra Leone,LOC
+50,OMS,ORG
+50,Gavi,LOC
+50,Alliance du vaccin,ORG
+50,CDC-Afrique,LOC
+50,Fonds des Nations Unies,ORG
+50,UNICEF,ORG
+50,UNICEF,ORG
+50,OMS,ORG
+50,É.-U.,PER
+50,PCR,ORG
+50,GeneXpert,MISC
+50,OMS,ORG
+50,Organisation,ORG
+50,OMS,ORG
+50,Dr George Ameh,MISC
+50,Représentant de l'OMS,MISC
+50,Sierra Leone,LOC
+50,République démocratique du Congo,LOC
+50,Région,LOC
+50,OMS,ORG
+50,Foday Sahr,PER
+50,Directeur de l'Agence nationale de santé publique,MISC
+50,Sierra Leone,LOC
+50,OMS,ORG
+50,Cliquez,LOC
+50,SHARKAH Madlyn,MISC
+50,Collins Boakye-Agyemang,PER
+50,Tel,MISC
+50,WhatsApp,ORG
+50,Email,MISC
+51,Protéger,PER
+51,République centrafricaine,LOC
+51,Bangui,LOC
+51,République centrafricaine,LOC
+51,Zoubala,LOC
+51,Bossombélé,LOC
+51,Bangui,LOC
+51,Bossembele,LOC
+51,Bangui,LOC
+51,Zoubala,LOC
+51,Surmonter,PER
+51,Une campagne de vaccination,MISC
+51,Zoubala,LOC
+51,Brice Ngombe,PER
+51,Consultant,ORG
+51,OMS,ORG
+51,Zoubala,LOC
+51,République centrafricaine,LOC
+51,République centrafricaine,LOC
+51,Dr Ngoy Nsenga,MISC
+51,Représentant de l'OMS,MISC
+51,République centrafricaine,LOC
+51,Cap Anamur,LOC
+51,République centrafricaine,LOC
+51,République centrafricaine,LOC
+51,Tchad,LOC
+51,Cliquez,LOC
+51,Monge Marta Villa,PER
+51,René Koundou IFONO,PER
+51,OMS,ORG
+51,République Centrafricaine,LOC
+52,Mauritanie,LOC
+52,Nouakchott,MISC
+52,Mauritanie,LOC
+52,Mauritanie,LOC
+52,Mariam,PER
+52,Arafat,PER
+52,Dr Salma Yahya,MISC
+52,Centre,LOC
+52,Nouakchott,LOC
+52,Dr Elhadj Malick Kane,MISC
+52,Programme national de lutte contre la tuberculose,ORG
+52,Mauritanie,LOC
+52,Ministère de la santé,ORG
+52,Organisation mondiale de la Santé,ORG
+52,OMS,ORG
+52,OMS,ORG
+52,Mauritanie,LOC
+52,Organisation,ORG
+52,Dr Babacar Dieye,MISC
+52,MTN,ORG
+52,OMS,ORG
+52,Mauritanie,LOC
+52,Dr Yahya,ORG
+52,Mauritanie,LOC
+52,MTN,ORG
+52,Mariam,PER
+52,Nom d'emprunt,PER
+52,Kayi Lawson Chargée,PER
+52,Bureau régional,ORG
+52,Kissima Tandia Chargé,MISC
+52,OMS Mauritanie,MISC
+53,Mali,LOC
+53,Bla,PER
+53,Sofara,LOC
+53,Mopti,LOC
+53,Mali,LOC
+53,Habibata,MISC
+53,Habibata,PER
+53,Mali,LOC
+53,Organisation mondiale de la Santé,ORG
+53,OMS,ORG
+53,CERF,ORG
+53,Habibata,PER
+53,Habibata,MISC
+53,OMS,ORG
+53,Organisation,ORG
+53,Ministère de la santé des équipements médicaux,ORG
+53,OMS,ORG
+53,Dr Cheick Oumar Koné,MISC
+53,OMS,ORG
+53,Mali,LOC
+53,OMS,ORG
+53,Kidal,LOC
+53,Tombouctou,LOC
+53,Ségou,LOC
+53,OMS,ORG
+53,Dramane Coulibaly,PER
+53,Directeur régional du développement social et de l'économie solidaire,MISC
+53,Ségou,LOC
+53,Mohamed,PER
+53,Sébougou,PER
+53,Mohamed,PER
+53,Sébougou,LOC
+53,Ségou,LOC
+53,Cliquez,LOC
+53,Cissé Abdoulaye Chargé,PER
+53,Abd Razzack SAIZONOU,PER
+53,Burundi Email,MISC
+54,N'Djamena,MISC
+54,N'Djamena,LOC
+54,Tchad,LOC
+54,Mécanicien,LOC
+54,Tchad,LOC
+54,Brahim,MISC
+54,Abena,PER
+54,N'Djamena,LOC
+54,Brahim,PER
+54,ASC,ORG
+54,Brahim,MISC
+54,Organisation mondiale de la Santé,ORG
+54,OMS,ORG
+54,ASC,ORG
+54,Brahim,PER
+54,Brahim,PER
+54,Brahim,LOC
+54,Brahim,PER
+54,Brahim,PER
+54,Mohamed Youssouf,PER
+54,OMS Tchad,ORG
+54,Email,LOC
+55,Mali,LOC
+55,Ségou –,PER
+55,Ségou,LOC
+55,Mali,LOC
+55,Organisation mondiale de la Santé,ORG
+55,OMS,ORG
+55,Mali,LOC
+55,Fonds CERF,ORG
+55,Ségou,LOC
+55,Séïdatou,PER
+55,Mohamed,PER
+55,Séïdatou,PER
+55,Safiatou Saré,PER
+55,État,LOC
+55,Sédougou,LOC
+55,Ségou,LOC
+55,Ségou,LOC
+55,Kadiatou Barry,PER
+55,Ségou,LOC
+55,Ségou,LOC
+55,Dr Makan Kouma,MISC
+55,OMS,ORG
+55,Ségou,LOC
+55,Mohamed,PER
+55,Berthé Aïssata Traoré,PER
+55,Terre,LOC
+55,OMS,ORG
+55,Séïdatou,PER
+55,Dieu,MISC
+55,Cliquez,LOC
+55,Abd Razzack SAIZONOU,PER
+55,Burundi Email,MISC
+55,Cissé Abdoulaye Chargé,PER
+56,Côte d'Ivoire,LOC
+56,Abidjan,LOC
+56,Lakota,LOC
+56,Côte d'Ivoire,LOC
+56,Radio mère-enfant,ORG
+56,Lakota,PER
+56,Edwige,LOC
+56,Radio Santé,ORG
+56,Côte d'Ivoire,LOC
+56,Organisation mondiale de la Santé,ORG
+56,OMS,ORG
+56,Radio Santé,ORG
+56,Radio,MISC
+56,Radio,ORG
+56,Radio santé,ORG
+56,Kouadio Allé Paul,MISC
+56,Directeur de la communication,MISC
+56,Ministère de la santé,ORG
+56,Radio santé,ORG
+56,Auditrice Edwige,LOC
+56,Mère-Enfant,ORG
+56,OMS,ORG
+56,Radio santé,ORG
+56,Talk,MISC
+56,Dr Raphaël Amani,MISC
+56,Institut national de l'hygiène publique,ORG
+56,INHP,LOC
+56,l'Afrique de l'Ouest,LOC
+56,Bénin,LOC
+56,Burkina Faso,LOC
+56,Guinée,LOC
+56,Mali,LOC
+56,Niger,LOC
+56,Sénégal,LOC
+56,Tchad,LOC
+56,Togo,LOC
+56,Talk,MISC
+56,Talk,MISC
+56,Nelly Daly,PER
+56,Rédactrice en Chef,MISC
+56,Adjamé Fm,PER
+56,Radio Santé,ORG
+56,Côte d'ivoire,LOC
+56,OMS,ORG
+56,Organisation,ORG
+56,Faire appel,MISC
+56,Souleymane Kone,PER
+56,OMS,ORG
+56,Côte d'Ivoire,LOC
+56,Côte d'Ivoire,LOC
+56,Cliquez,LOC
+56,Kayi Lawson Chargée,PER
+56,Bureau régional,ORG
+56,TAKPÉ,ORG
+56,Edmond Communication Officer,PER
+56,Media,MISC
+56,Mobile,LOC
+57,Guinée,LOC
+57,RDC,LOC
+57,Businga,LOC
+57,République Démocratique du Congo,LOC
+57,RDC,LOC
+57,Guinée,LOC
+57,Salomon,LOC
+57,Businga,LOC
+57,RDC,LOC
+57,Guinée,LOC
+57,Salomon,LOC
+57,Intrigué,LOC
+57,Salomon,PER
+57,éléphantiasis,PER
+57,Guinée,LOC
+57,RDC,LOC
+57,Organisation mondiale de la Santé,ORG
+57,OMS,ORG
+57,Objectifs,MISC
+57,RDC,LOC
+57,OMS,ORG
+57,Centre Carter,ORG
+57,CDC Atlanta,ORG
+57,Ministère de la santé,ORG
+57,OMS,ORG
+57,Maboki Bébé,PER
+57,Businga,LOC
+57,Salomon,LOC
+57,Mpika,LOC
+57,Mutchopi,PER
+57,Nkusu ya Mulayi,MISC
+57,Guinée,LOC
+57,DPS,ORG
+57,Salomon,LOC
+57,Dre Renée Nsamba,LOC
+57,OMS,ORG
+57,RDC,LOC
+57,RDC,ORG
+57,Dre Nsamba,LOC
+57,Dr Nkoy Mbilo Serge,MISC
+57,Directeur du programme national d'éradication de la dracunculose,MISC
+57,PNED,ORG
+57,Businga,LOC
+57,Salomon,PER
+57,Cliquez,LOC
+57,Marlène Dimegni Bermi Chargée,PER
+57,Tél : +243 899 330 358 Email,MISC
+57,Kayi Lawson Chargée,PER
+57,Bureau régional,ORG
+58,Congo,LOC
+58,Madingo-Kayes,LOC
+58,Kotinvindo,LOC
+58,Congo,LOC
+58,Magloire,PER
+58,Pointe Noire,LOC
+58,Organisation mondiale de la Santé,ORG
+58,OMS,ORG
+58,OMS,ORG
+58,Congo,LOC
+58,Madingo-Kayes,LOC
+58,Dre Paule Chantal Portella,PER
+58,Directrice,ORG
+58,Kouilou,LOC
+58,Madingo-Kayes,LOC
+58,Kotinvindo,LOC
+58,Madingo-Kayes,LOC
+58,Dr Charly Nianga,LOC
+58,Chef,LOC
+58,Madingo-Kayes,LOC
+58,Dr Jean-Bruno Douiba,MISC
+58,Directeur de l'hôpital de Madingo-Kayes,MISC
+58,Magloire,PER
+58,OMS,ORG
+58,Organisation,ORG
+58,OMS,ORG
+58,République du Congo,LOC
+58,Dr Vincent Dossou Sodjinou,MISC
+58,OMS,ORG
+58,Congo,LOC
+58,OMS,ORG
+58,Dr Sodjinou,MISC
+58,Magloire,LOC
+58,Cliquez,LOC
+58,Mohamed Diawara Chargé,PER
+58,OMS,ORG
+58,Email,LOC
+58,Tél,LOC
+58,Kayi Lawson Chargée,PER
+58,Bureau régional,ORG

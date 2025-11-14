@@ -1,0 +1,383 @@
+\documentclass[12pt, twoside, czech]{report}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+	\makeatletter
+		\def\UTFviii@defined#1{%
+		\ifx#1\relax
+			!!FIXME%
+		\else
+			\expandafter#1%
+		\fi
+	}
+	\makeatother
+
+\usepackage[french]{babel}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+%\usepackage{scrlayer-scrpage}
+%\usepackage{blindtext}
+\usepackage{graphicx}
+\usepackage[left=3cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\geometry{verbose}
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{colortbl}
+\usepackage{pifont}
+\usepackage{times}
+\usepackage{eso-pic}
+\usepackage{setspace}
+\usepackage{textcomp} % pour le drege
+
+
+\usepackage{tocloft}
+\usepackage{tikz}
+\usepackage{xurl}
+\usepackage[bookmarksopen, bookmarksdepth=2, colorlinks=false, urlcolor=teal, breaklinks=true]{hyperref}
+
+\usepackage[most]{tcolorbox}
+\usepackage{array}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{booktabs} % Pour l'affichage des tableaux toprule
+\usepackage{tabularx}
+
+\fancypagestyle{fancy}{
+    \fancyhf{} 
+    \fancyfoot[C]{\thepage}
+    \setlength{\footskip}{45pt} 
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+
+
+    }
+ 
+
+\pagestyle{fancy} 	
+
+\makeatletter
+\def\thickhrulefill{\leavevmode \leaders \hrule height 1ex \hfill \kern \z@}
+\def\@makechapterhead#1{%
+  %\vspace*{50\p@}%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
+        \thickhrulefill\quad
+       
+        \scshape \@chapapp{} \thechapter
+        \quad \thickhrulefill
+        \par\nobreak
+        \vspace*{10\p@}%
+        \interlinepenalty\@M
+        \hrule
+        \vspace*{10\p@}%
+        \Huge \bfseries #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+        \hrule
+    %\vskip 40\p@
+    \vskip 50\p@
+  }}
+\def\@makeschapterhead#1{%
+  %\vspace*{50\p@}%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
+        \thickhrulefill
+        \par\nobreak
+        \vspace*{10\p@}%
+        \interlinepenalty\@M
+        \hrule
+        \vspace*{10\p@}%
+        \Huge \bfseries #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+        \hrule
+    %\vskip 40\p@
+    \vskip 50\p@
+  }}
+
+
+\setcounter{secnumdepth}{3}
+
+\urlstyle{tt}
+
+\hypersetup{pdfborder={0 0 0}}
+\renewcommand{\cftsecleader}{\hfill}
+
+%\renewcommand{\baselinestretch}{1.5}
+
+\AtEndDocument{\label{lastpage}}
+\begin{document}
+
+
+\begin{titlepage}
+		
+		\begin{center}\Large
+			\textsc{République De Côte D'ivoire}
+		\end{center}
+		
+		\begin{figure}[!h]
+			\begin{center}
+				\includegraphics[scale=.35]{armoiries.png}
+			\end{center}
+		\end{figure}
+		
+		\vspace*{0.05cm}
+		
+		\begin{center}\Large
+			 \textsc{International Data Science Institute}
+		\end{center}		
+		
+		\begin{figure}[!h]
+			\begin{center}
+				\includegraphics[scale=.08]{logoINP.png} \hspace*{3cm} \includegraphics[scale=.45]{images.png} \hspace*{3cm} \includegraphics[scale=.15]{POLYTECHNIQUE-IP_PARIS.png}
+			\end{center}
+		\end{figure}
+		
+		\begin{center}\Large
+			 PROJET DE TEXT MINING
+		\end{center}
+		
+		\vspace*{0.5cm}
+		
+		\parindent=0cm
+		\rule{\linewidth}{1mm}
+		\baselineskip=0.1cm
+		\rule{\linewidth}{0.4mm}
+		
+		\begin{center}
+   			\Large{Analyse Comparative des Discours Sanitaires} \\
+		\end{center}
+		
+		\rule{\linewidth}{0.4mm}
+		\baselineskip=-0.1cm
+		\rule{\linewidth}{1mm}
+		
+		
+		\begin{center}
+			\textsc{Réalisé par :} \\ 
+			\vspace*{0.3cm}
+			\bfseries{ADJINDA Adékin Olakêmi Lucia \\
+			\vspace*{0.2cm}
+			COULIBALY Segnindenin Oumar \\
+			\vspace*{0.2cm}
+			NIADA Ulrich Boris \\
+			\vspace*{0.2cm}
+			SAWADOGO Amed}
+		\end{center}
+		
+	 \vspace*{0.3cm}
+		
+		\begin{center}
+   			 \textsc{Période :}\\
+   			 \vspace*{0.3cm}
+   			 Avril - Juin 2025
+		\end{center}
+		
+		\vspace*{0.3cm}
+		
+		\begin{center}
+   			 \textsc{Enseignant :}\\
+   			 \vspace*{0.3cm}
+   			 \bfseries{\textsc{Dr TANOH Lambert}} \\
+		\end{center}
+		
+		\begin{center}
+   			 Directeur de l'IDSI \\
+   			 \vspace*{0.2cm}
+   			 DSI de l'INPHB
+		\end{center}
+		
+		\vspace*{0.3cm}
+		
+		\begin{center}
+			\textsc{Master 1 Data Science, Big Data \& Intélligence Artificielle}
+		\end{center}
+		
+		
+		\vspace*{0.7cm}
+		
+		\begin{flushright}
+			\textbf{\textit{Année académique 2024-2025}}
+		\end{flushright}
+		
+		
+\end{titlepage}
+
+
+\tableofcontents
+\newpage
+
+% ========================
+\section{Résumé exécutif}
+Ce rapport analyse dans quelle mesure les priorités sanitaires communiquées par l’Organisation Mondiale de la Santé (OMS) – Région Afrique sont reprises, reformulées ou ignorées par Forbes Afrique, média économique majeur du continent.
+
+L’analyse repose sur un pipeline complet de \textit{text mining} incluant :
+\begin{itemize}
+    \item extraction de thématiques (LDA) ;
+    \item similarité lexicale et sémantique (TF-IDF, SBERT) ;
+    \item analyse du sentiment ;
+    \item analyse du \textit{framing} éditorial ;
+    \item extraction d'entités nommées (NER) ;
+    \item visualisation UMAP ;
+    \item création d’un dashboard interactif.
+\end{itemize}
+
+Les résultats montrent un écart important entre les enjeux de santé publique (OMS) et la vision économique centrée sur l’innovation (Forbes Afrique).
+
+% ========================
+\section{Introduction}
+L'Afrique fait face à de nombreux défis sanitaires : épidémies récurrentes, mortalité infantile élevée, faible couverture vaccinale, infrastructures insuffisantes.
+
+L’OMS documente ces problématiques dans ses communications officielles. Forbes Afrique, en revanche, focalise sa couverture sur l’économie, l’innovation et l’entrepreneuriat.
+
+\textbf{Objectif général :} mesurer le degré de convergence entre ces deux visions à travers une analyse textuelle approfondie.
+
+\textbf{Questions de recherche :}
+\begin{itemize}
+    \item Quels sont les thèmes prioritaires de l’OMS ?
+    \item Dans quelle mesure Forbes couvre-t-il ces thèmes ?
+    \item Quelle est la proximité sémantique OMS–Forbes ?
+    \item Comment les deux sources diffèrent-elles en termes de sentiment et d’angle éditorial (\textit{framing}) ?
+\end{itemize}
+
+% ========================
+\section{Corpus et Description des Données}
+
+\subsection{Corpus OMS Afrique}
+\begin{itemize}
+    \item $\sim 60$ articles
+    \item Langue : principalement français
+    \item Types : communiqués, bulletins épidémiologiques, rapports terrain
+    \item Thèmes récurrents : épidémies, vaccination, mortalité maternelle, urgences sanitaires
+\end{itemize}
+
+\subsection{Corpus Forbes Afrique}
+\begin{itemize}
+    \item $\sim 50$ articles
+    \item Langue : français
+    \item Types : interviews, reportages économiques, analyses de marché
+    \item Thèmes : innovation, biotech, start-ups santé, financements
+\end{itemize}
+
+% ========================
+\section{Méthodologie}
+
+\subsection{Nettoyage et Prétraitement}
+\begin{itemize}
+    \item normalisation : minuscules, suppression URLs, accents ;
+    \item suppression des mots outils FR/EN ;
+    \item tokenisation ;
+    \item lemmatisation/stemming.
+\end{itemize}
+
+\subsection{Modélisation du Texte}
+\begin{itemize}
+    \item \textbf{TF-IDF} : comparaison lexicale ;
+    \item \textbf{SBERT} (all-mpnet-base-v2) : représentation sémantique ;
+    \item \textbf{UMAP} : réduction dimensionnelle.
+\end{itemize}
+
+\subsection{Extraction des Thèmes OMS (LDA)}
+\begin{itemize}
+    \item 8 thèmes extraits automatiquement ;
+    \item servent de référence pour mesurer la couverture Forbes.
+\end{itemize}
+
+\subsection{Analyse du Sentiment et Framing}
+\begin{itemize}
+    \item modèle Transformer multilingue ;
+    \item labels : POS / NEG / NEU ;
+    \item \textit{framing} : économique, sanitaire, mixte, neutre.
+\end{itemize}
+
+\subsection{Extraction d’Entités (NER – spaCy)}
+Labels utilisées : PER, ORG, LOC, GPE, MISC.
+
+% ========================
+\section{Résultats}
+
+\subsection{Thèmes OMS Identifiés}
+\begin{itemize}
+    \item Épidémies (Ebola, choléra)
+    \item Vaccination
+    \item Santé maternelle
+    \item Accès aux soins
+    \item Surveillance épidémiologique
+    \item Tuberculose
+    \item Urgences humanitaires
+    \item Renforcement des systèmes de santé
+\end{itemize}
+
+\textbf{Tableau 1 :} Résumé des 8 thèmes OMS extraits.  
+(À compléter avec votre tableau)
+
+% ========================
+\subsection{Couverture Forbes des Thèmes OMS}
+
+\textbf{À insérer : Barplot couverture Forbes → thèmes OMS}
+
+
+
+\textbf{Interprétation (pré-rédigée) :}  
+Forbes couvre principalement les thèmes liés à l’innovation, aux investissements et au marché de la santé.  
+Les thématiques critiques (choléra, crises humanitaires, mortalité maternelle) sont très peu relayées.
+
+% ========================
+\subsection{Analyse UMAP – Proximité Sémantique}
+
+
+
+\begin{figure}[!htbp]
+    	\centering
+    	\includegraphics[width=0.85\textwidth]{figures/umap_sources.png
+   	\caption{Projection UMAP des articles OMS vs Forbes}
+ 
+\end{figure}
+
+
+\textbf{Interprétation (pré-rédigée) :}  
+L’UMAP montre deux clusters distincts :
+\begin{itemize}
+    \item OMS : discours sanitaire, urgence, santé publique ;
+    \item Forbes : innovation, économie, financement.
+\end{itemize}
+Quelques points hybrides apparaissent sur les sujets de vaccination et de systèmes de santé.
+
+% ========================
+\subsection{Analyse du Sentiment}
+
+
+
+\textbf{Interprétation :}  
+OMS adopte un ton neutre ou négatif (crises sanitaires), tandis que Forbes est majoritairement positif (innovations, success stories).
+
+% ========================
+\subsection{Analyse des Entités et Wordclouds}
+
+
+
+\textbf{Interprétation :}  
+OMS : crise, maladie, épidémie, vaccination.  
+Forbes : innovation, technologie, entreprise, marché.
+
+
+
+% ========================
+\section{Conclusion}
+Cette étude met en évidence un écart significatif entre les priorités sanitaires de l’OMS et les priorités éditoriales de Forbes Afrique.
+
+\textbf{Résumé des divergences majeures :}
+\begin{itemize}
+    \item Santé publique vs Santé économique ;
+    \item urgence sanitaire vs innovation ;
+    \item institutions publiques vs acteurs privés.
+\end{itemize}
+
+\textbf{Perspectives (à compléter) :}
+\begin{itemize}
+    \item Analyse temporelle ;
+    \item Analyse par pays ;
+    \item Inclusion d’autres médias africains.
+\end{itemize}
+
+\end{document}
